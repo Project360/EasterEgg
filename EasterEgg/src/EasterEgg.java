@@ -15,7 +15,7 @@ public class EasterEgg {
 	 *  An array for Project360's team member names
 	 */
 	private String[] myNames = {"Sara Vandandaigue",	// Sara
-						"",	// Min - **add your name in here
+						"Minyahil Kebebegn",	// Min - **add your name in here
 						"Vinh Phu Tran", // Vinh
 						""};// Gring
 	
@@ -24,7 +24,7 @@ public class EasterEgg {
 	 * The index relates to the index of myNames.
 	 */
 	private String[] myNicknameComment = {"I was born in Singapore.", // Sara
-						"",	 // Min
+						"My nickname is Min.",	 // Min
 						"I like soccer.",  // Vinh
 						""}; // Gring
 	
