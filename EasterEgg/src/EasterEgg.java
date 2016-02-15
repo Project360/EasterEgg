@@ -23,7 +23,7 @@ public class EasterEgg {
 	 * An array for the nickname or comment of each team member.
 	 * The index relates to the index of myNames.
 	 */
-	private String[] myNicknameComment = {"I was born in Singapore.", // Sara
+	private String[] myNicknameComment = {"I speak French fluently.", // Sara
 						"My nickname is Min.",	 // Min
 						"I like soccer.",  // Vinh
 						"I like whisky."}; // Gring
