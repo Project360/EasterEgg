@@ -16,7 +16,7 @@ public class EasterEgg {
 	 */
 	private String[] myNames = {"Sara Vandandaigue",	// Sara
 						"",	// Min - **add your name in here
-						"", // Vinh
+						"Vinh Phu Tran", // Vinh
 						""};// Gring
 	
 	/*
@@ -25,7 +25,7 @@ public class EasterEgg {
 	 */
 	private String[] myNicknameComment = {"I was born in Singapore.", // Sara
 						"",	 // Min
-						"",  // Vinh
+						"I like soccer.",  // Vinh
 						""}; // Gring
 	
 	/* 
