@@ -17,7 +17,7 @@ public class EasterEgg {
 	private String[] myNames = {"Sara Vandandaigue",	// Sara
 						"Minyahil Kebebegn",	// Min - **add your name in here
 						"Vinh Phu Tran", // Vinh
-						""};// Gring
+						"Gring Mustafa"};// Gring
 	
 	/*
 	 * An array for the nickname or comment of each team member.
@@ -26,7 +26,7 @@ public class EasterEgg {
 	private String[] myNicknameComment = {"I was born in Singapore.", // Sara
 						"My nickname is Min.",	 // Min
 						"I like soccer.",  // Vinh
-						""}; // Gring
+						"I like whisky."}; // Gring
 	
 	/* 
 	 * Main entry point to this program.
